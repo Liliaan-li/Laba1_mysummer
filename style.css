@@ -1,0 +1,18 @@
+img {
+    border: 2.5px dotted rgb(0, 0, 0);
+    margin: 10px;
+    margin-left: 2%;
+}
+body{
+background:url(new.png);
+background-attachment: fixed;
+font-family: Arial, sans-serif;
+color:  rgb(11, 78, 111);
+font-size: 20px;
+text-align: center;
+}
+p{
+  margin: 0 auto;
+  width:70%;
+  text-align: justify;
+}
